@@ -1,3 +1,3 @@
 # Tic-Tac-Toe-in-python
-Tic tac toe in python I made
+Tic tac toe in python I made\n
 Install tkinter
